@@ -1,5 +1,7 @@
 .container{
 	display: flex;
+	justify-content: black;
+	align-items: center;
 }
 .itemdiv{
 	margin: auto;
@@ -12,4 +14,9 @@
 	background: red;
 	color: white;
 	border: none;
+}
+img{
+	width: 50%;
+	height: 50%;
+	object-fit: cover;
 }
