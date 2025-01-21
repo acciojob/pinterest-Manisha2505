@@ -1,0 +1,15 @@
+.container{
+	display: flex;
+}
+.itemdiv{
+	margin: auto;
+	padding: auto;
+	width: 30%;
+}
+#btn{
+	margin: auto;
+	padding: 10px;
+	background: red;
+	color: white;
+	border: none;
+}
