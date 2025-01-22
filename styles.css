@@ -1,9 +1,9 @@
-.container{
+.hero{
 	display: flex;
 	justify-content: black;
 	align-items: center;
 }
-.itemdiv{
+.hero-content{
 	margin: auto;
 	padding: auto;
 	width: 30%;
